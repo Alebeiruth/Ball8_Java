@@ -1,5 +1,5 @@
 let userName = "";
-userName ? console.log(`Hell, ${userName}!`) : console.log(`Hello!`);
+userName ? console.log(`Hello, ${userName}!`) : console.log(`Hello!`);
 const userQuestion = "I will search the true love?";
 console.log(userName + "I will search the true love?");
 let randoNumber = Math.floor(Math.random() * 8);
